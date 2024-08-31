@@ -3,6 +3,6 @@ public class FirstGitPush {
 }
 class main{
     public static void main(string args[]){
-        System.out.println("This is My First Program On GIt Suing  VS CODE .");
+        System.out.println("This is My First Program On Git Suing  VS CODE . ");
     }
 }
